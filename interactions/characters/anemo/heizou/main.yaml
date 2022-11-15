@@ -12,21 +12,21 @@ embeds:
 
 buttons:
 #  - customId: "liveInteraction#characters/hydro/heizou/main2"
-#    label: "Teams"
+#    label: "Teams Infographic"
 #    style: "PRIMARY"
 #    emoji: "▶️"
 
-#  - label: "Guide"
-#    url: "https://keqingmains.com/heizou"
-#    emoji: ${ EMOJIS.LOGO }
-#    style: "LINK"
+  - label: "Guide"
+    url: "https://keqingmains.com/heizou"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "TCL"
     url: "https://library.keqingmains.com/heizou"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
 
-#  - label: "Quick Guide"
+#  - label: "Video Guide"
 #    url: "https://www.youtube.com/watch?v=EiOP60N4p58"
 #    emoji: ${ EMOJIS.YOUTUBE }
 #    style: "LINK"
